@@ -1,0 +1,9 @@
+{
+	"name": "meghnaadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "39d57bf9-a4f3-4dba-8d75-2fac7be9a43e",
+		"tenantId": "9c5fc9a0-9cf8-47e3-a7d5-39710d51ffa8"
+	}
+}
